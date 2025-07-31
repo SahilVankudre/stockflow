@@ -2,7 +2,6 @@
 
 Name: Sahil Vankudre
 Date: 2025-08-1
-GitHub Repository: [https://github.com/your-username/stockflow](https://github.com/your-username/stockflow)
 
 ---
 
