@@ -1,6 +1,7 @@
 # Bynry Backend Intern Case Study Submission
 
 Name: Sahil Vankudre
+
 Date: 2025-08-1
 
 ---
